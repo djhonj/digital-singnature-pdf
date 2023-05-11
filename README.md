@@ -8,4 +8,4 @@ Console application for signing files with .pfk (format PKCS12) extension.
 ### Configuration
 - To store data in the database, it is necessary to change the connection credentials to your own. To do this you must go to Infrastructure > DBSqlServer > Connection.cs
 - The application only accepts certificates with .pfx extension.
-- I attach certificate for testing purposes (filename cert_key.pfx).
+- I attach certificate for testing purposes (filename cert_key.pfx. password: 123).
