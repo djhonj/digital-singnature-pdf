@@ -1,5 +1,5 @@
 # digital-singnature-pdf
-Console application for signing files with .pfk extension.
+Console application for signing files with .pfk (format PKCS12) extension.
 
 ### Technologies used
 - db: sql server
